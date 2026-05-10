@@ -1,14 +1,14 @@
 ### 🚀 Senior Lead | SharePoint · Power Platform · Agentic AI · AWS
 
-10+ yrs total experience
+**Senior Associate – Projects @ Cognizant** · 4 yrs · 10+ yrs total experience
 
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/YOUR-HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-gupta-b09442a2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahulgupta7387@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/rahul738747)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rahul7387)
 
 
 
@@ -36,6 +36,18 @@
 🎓 **Microsoft Certified Trainer (MCT)** — Enabling teams to adopt and maximize the Microsoft 365 ecosystem.
 
 ---
+
+
+
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul7387&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul7387&layout=compact&theme=default&hide_border=true)
+
+
+
 
 ---
 
