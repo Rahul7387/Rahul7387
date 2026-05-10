@@ -37,6 +37,19 @@
 
 ---
 
+### 🏅 Certifications
+
+| Badge | Certification | Issuer |
+|-------|--------------|--------|
+| ![PL-900](https://img.shields.io/badge/PL--900-0078D4?style=flat&logo=microsoftazure&logoColor=white) | Power Platform Fundamentals | Microsoft |
+| ![PL-100](https://img.shields.io/badge/PL--100-742774?style=flat&logo=powerapps&logoColor=white) | Power Platform App Maker Associate | Microsoft |
+| ![PL-400](https://img.shields.io/badge/PL--400-5C2D91?style=flat&logo=powerapps&logoColor=white) | Power Platform Developer Associate | Microsoft |
+| ![PL-600](https://img.shields.io/badge/PL--600-0F6E56?style=flat&logo=powerapps&logoColor=white) | Power Platform Solution Architect Expert | Microsoft |
+| ![MCT](https://img.shields.io/badge/MCT-FF6B00?style=flat&logo=microsoft&logoColor=white) | Microsoft Certified Trainer | Microsoft |
+| ![AZ-900](https://img.shields.io/badge/AZ--900-0089D6?style=flat&logo=microsoftazure&logoColor=white) | Azure Fundamentals | Microsoft |
+
+---
+
 
 
 
