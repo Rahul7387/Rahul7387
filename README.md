@@ -1,6 +1,6 @@
 ### 🚀 Senior Lead | SharePoint · Power Platform · Agentic AI · AWS
 
-**Senior Associate – Projects @ Cognizant** · 4 yrs · 10+ yrs total experience
+10+ yrs total experience
 
 
 
